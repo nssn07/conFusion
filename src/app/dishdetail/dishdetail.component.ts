@@ -16,7 +16,7 @@ export class DishdetailComponent implements OnInit {
 const DISH = {
   id: '0',
   name: 'Uthappizza',
-  image: '/assets/images/uthappizza.png',
+  image: '/assets/images/images/uthappizza.png',
   category: 'mains',
   featured: true,
   label: 'Hot',
